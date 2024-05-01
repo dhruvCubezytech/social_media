@@ -11,6 +11,7 @@ export default function CreatePost() {
     const comments = []
     const likes = []
 
+    //hello
     const handleAddPost = async (e) => {
         e.preventDefault();
         let data = { userId, img, caption, comments, likes }
