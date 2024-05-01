@@ -1,0 +1,205 @@
+{
+  "users": [
+    {
+      "id": "8ba3",
+      "name": "dhruv navadiya",
+      "userName": "dhruv",
+      "password": "dhruv",
+      "description": "hello there!\n",
+      "profileImg": "https://images.pexels.com/photos/906052/pexels-photo-906052.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "posts": [],
+      "followers": [],
+      "following": [],
+      "likedPost": []
+    },
+    {
+      "id": "2559",
+      "name": "qwe",
+      "userName": "qwe",
+      "password": "qwe",
+      "followers": [
+        "2560"
+      ],
+      "following": [],
+      "likedPost": []
+    },
+    {
+      "id": "2560",
+      "name": "zxc",
+      "userName": "qwe",
+      "password": "qwe",
+      "followers": [
+        "2560"
+      ],
+      "following": [],
+      "likedPost": []
+    }
+  ],
+  "posts": [
+    {
+      "id": "0d8f",
+      "userId": "8ba3",
+      "img": "https://images.pexels.com/photos/1659438/pexels-photo-1659438.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "caption": "qweqwe",
+      "comments": [
+        {
+          "userId": "8ba3",
+          "text": "awsome"
+        },
+        {
+          "userId": "2559",
+          "text": "good picture"
+        },
+        {
+          "userId": "8ba3",
+          "text": "qwe"
+        },
+        {
+          "userId": "8ba3",
+          "text": "asd"
+        },
+        {
+          "userId": "8ba3",
+          "text": "asd"
+        },
+        {
+          "userId": "8ba3",
+          "text": "nice picture"
+        }
+      ],
+      "likes": [
+        "8ba3"
+      ]
+    },
+    {
+      "id": "199f",
+      "userId": "8ba3",
+      "img": "https://images.pexels.com/photos/754595/pexels-photo-754595.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "caption": "qweqwe",
+      "comments": [
+        {
+          "userId": "8ba3",
+          "text": "awsome"
+        },
+        {
+          "userId": "2559",
+          "text": "nice pic!"
+        },
+        {
+          "userId": "8ba3",
+          "text": "qwe"
+        },
+        {
+          "userId": "8ba3",
+          "text": "asd"
+        },
+        {
+          "userId": "8ba3",
+          "text": "zxc"
+        }
+      ],
+      "likes": [
+        "2560"
+      ]
+    },
+    {
+      "id": "abc4",
+      "userId": "8ba3",
+      "img": "https://images.pexels.com/photos/1366630/pexels-photo-1366630.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "caption": "zxczxc",
+      "comments": [
+        {
+          "userId": "8ba3",
+          "text": "ASD"
+        }
+      ],
+      "likes": [
+        "2560"
+      ]
+    },
+    {
+      "id": "079e",
+      "userId": "8ba3",
+      "img": "https://images.pexels.com/photos/3347244/pexels-photo-3347244.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "caption": "New York",
+      "comments": [],
+      "likes": []
+    },
+    {
+      "id": "bf37",
+      "userId": "2559",
+      "img": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "caption": "tample",
+      "comments": [
+        {
+          "userId": "2559",
+          "text": "ZXC"
+        }
+      ],
+      "likes": []
+    },
+    {
+      "id": "4185",
+      "userId": "2559",
+      "img": "https://images.pexels.com/photos/4009599/pexels-photo-4009599.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "caption": "ai for vr technology",
+      "comments": [
+        {
+          "userId": "2559",
+          "text": "amazing device"
+        }
+      ],
+      "likes": [
+        "2560"
+      ]
+    },
+    {
+      "id": "4a84",
+      "userId": "2559",
+      "img": "https://images.pexels.com/photos/6498272/pexels-photo-6498272.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "caption": "technology",
+      "comments": [],
+      "likes": []
+    },
+    {
+      "id": "519c",
+      "userId": "2559",
+      "img": "https://images.pexels.com/photos/8088452/pexels-photo-8088452.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "caption": "business",
+      "comments": [],
+      "likes": [
+        "2560"
+      ]
+    },
+    {
+      "id": "7784",
+      "userId": "2560",
+      "img": "https://images.pexels.com/photos/4014919/pexels-photo-4014919.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "caption": "qweqweqwe",
+      "comments": [
+        {
+          "userId": "2560",
+          "text": "qwe"
+        }
+      ],
+      "likes": [
+        "2560"
+      ]
+    },
+    {
+      "id": "6964",
+      "userId": "2560",
+      "img": "https://images.pexels.com/photos/1461974/pexels-photo-1461974.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "caption": "zcxczxczxc",
+      "comments": [
+        {
+          "userId": "2560",
+          "text": "zxc"
+        }
+      ],
+      "likes": [
+        "2560"
+      ]
+    }
+  ]
+}
