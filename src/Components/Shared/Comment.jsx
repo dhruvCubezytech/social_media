@@ -65,7 +65,7 @@ export default function Comment(props) {
                             <p className='ms-2 font-bold' >{data?.modalState?.user?.userName}</p>
                             <small className='ms-2'>{data?.modalState?.user?.name}</small>
                         </div>
-                        <i class="bi bi-three-dots ms-auto me-2 px-2 py-1 rounded hover:bg-slate-200"></i>
+                        <i className="bi bi-three-dots ms-auto me-2 px-2 py-1 rounded hover:bg-slate-200"></i>
                         <i className=" bi bi-x-lg px-2 py-1 rounded hover:bg-slate-200"
                             onClick={() => {
                                 props.data.setModalState({

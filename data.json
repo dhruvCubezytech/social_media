@@ -2,13 +2,16 @@
   "users": [
     {
       "id": "8ba3",
-      "name": "dhruv navadiya",
-      "userName": "dhruv",
-      "password": "dhruv",
+      "name": "ruby",
+      "userName": "ruby",
+      "password": "ruby",
       "description": "hello there!\n",
       "profileImg": "https://images.pexels.com/photos/906052/pexels-photo-906052.jpeg?auto=compress&cs=tinysrgb&w=600",
       "posts": [],
-      "followers": [],
+      "followers": [
+        "2560",
+        "2559"
+      ],
       "following": [],
       "likedPost": []
     },
@@ -17,6 +20,7 @@
       "name": "qwe",
       "userName": "qwe",
       "password": "qwe",
+      "profileImg": "https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&w=600",
       "followers": [
         "2560"
       ],
@@ -26,12 +30,14 @@
     {
       "id": "2560",
       "name": "zxc",
-      "userName": "qwe",
-      "password": "qwe",
+      "userName": "zxc",
+      "password": "zxc",
       "followers": [
         "2560"
       ],
-      "following": [],
+      "following": [
+        "8ba3"
+      ],
       "likedPost": []
     }
   ],
@@ -200,6 +206,50 @@
       "likes": [
         "2560"
       ]
+    }
+  ],
+  "message": [
+    {
+      "id": 1716282291230,
+      "senderId": "2559",
+      "recieverId": "8ba3",
+      "message": "no you are not."
+    },
+    {
+      "id": 1716282243406,
+      "senderId": "8ba3",
+      "recieverId": "2559",
+      "message": "how are you!"
+    },
+    {
+      "id": 1716282277246,
+      "senderId": "8ba3",
+      "recieverId": "2559",
+      "message": "im also fine!"
+    },
+    {
+      "id": 1716282251430,
+      "senderId": "2559",
+      "recieverId": "8ba3",
+      "message": "i am fine."
+    },
+    {
+      "id": 1716282259622,
+      "senderId": "8ba3",
+      "recieverId": "2559",
+      "message": "ok"
+    },
+    {
+      "id": 1716282268206,
+      "senderId": "2559",
+      "recieverId": "8ba3",
+      "message": "what about you!"
+    },
+    {
+      "id": 1716292603021,
+      "senderId": "8ba3",
+      "recieverId": "2559",
+      "message": "qweqweqweqweqweqweqweqweqwe"
     }
   ]
 }
